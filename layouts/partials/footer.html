@@ -1,0 +1,5 @@
+  <footer>
+      <div class="copyright"><p>{{ with .Site.Copyright | safeHTML }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. {{ .Site.Title }}. No rights reserved, yeah, just have fun. {{end}}</div>    {{ partial "google_analytics.html" . }}
+  </footer>
+</body>
+</html>
