@@ -1,0 +1,16 @@
+baseURL = "https://sangpotado.github.io/trialblog/"
+languageCode = "en-us"
+title = "potado's land"
+theme = "darksimplicity"
+
+[Params]
+    mainSections = ["post", "physique", "mind"]
+    intro = true
+    headline = "Hellooo"
+    description = "where I bury my dead thots (thoughts - I mean)"
+    github = "https://github.com/sangpotado"
+	facebook = "https://www.facebook.com/pepeandlife"
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
