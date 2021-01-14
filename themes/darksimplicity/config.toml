@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dark Simplicity"
-baseurl = "https://sangpotado.github.io/trialblog/"
+baseurl = "https://sangpotado.github.io/"
 theme = "darksimplicity"
 min_version = "0.57.0"
 contentdir = "content"

@@ -1,4 +1,4 @@
-baseURL = "https://sangpotado.github.io/trialblog/"
+baseURL = "https://sangpotado.github.io/"
 languageCode = "en-us"
 title = "potado's land"
 theme = "darksimplicity"
