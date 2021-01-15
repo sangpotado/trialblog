@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on potado&#39;land</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on potado&#39;land</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 10:58:25 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>latin</title>
+      <link>/tags/latin/</link>
+      <pubDate>Thu, 14 Jan 2021 10:58:25 -0500</pubDate>
+      
+      <guid>/tags/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website crash</title>
+      <link>/tags/website-crash/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/website-crash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphic designer</title>
+      <link>/tags/graphic-designer/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graphic-designer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eeoo</title>
+      <link>/tags/eeoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/eeoo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
