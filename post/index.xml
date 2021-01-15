@@ -1,32 +1,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on potado&#39;s land</title>
-    <link>/post/</link>
+    <link>https://example.com/post/</link>
     <description>Recent content in Posts on potado&#39;s land</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 Notepadium.</copyright>
     <lastBuildDate>Fri, 15 Jan 2021 17:10:38 -0500</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firstpost</title>
-      <link>/post/firstpost/</link>
+      <link>https://example.com/post/firstpost/</link>
       <pubDate>Fri, 15 Jan 2021 17:10:38 -0500</pubDate>
       
-      <guid>/post/firstpost/</guid>
+      <guid>https://example.com/post/firstpost/</guid>
       <description>&lt;p&gt;hellooooo&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About/Feed Me</title>
-      <link>/about/</link>
+      <link>https://example.com/about/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://example.com/about/</guid>
       <description>&lt;p&gt;đang tập làm blog.&lt;/p&gt;
 &lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;target=&#34;_blank&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -46,19 +46,19 @@
     
     <item>
       <title></title>
-      <link>/archives/</link>
+      <link>https://example.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://example.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>/post/markdown-syntax/</link>
+      <link>https://example.com/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/markdown-syntax/</guid>
+      <guid>https://example.com/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
@@ -202,10 +202,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>/post/rich-content/</link>
+      <link>https://example.com/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/rich-content/</guid>
+      <guid>https://example.com/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;instagram-simple-shortcode&#34;&gt;Instagram Simple Shortcode&lt;/h2&gt;
@@ -290,10 +290,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
+      <link>https://example.com/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/placeholder-text/</guid>
+      <guid>https://example.com/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
@@ -321,10 +321,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>/post/math-typesetting/</link>
+      <link>https://example.com/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/math-typesetting/</guid>
+      <guid>https://example.com/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;target=&#34;_blank&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -351,10 +351,10 @@ $$&lt;/p&gt;</description>
     
     <item>
       <title>Emoji Support</title>
-      <link>/post/emoji-support/</link>
+      <link>https://example.com/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/emoji-support/</guid>
+      <guid>https://example.com/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;target=&#34;_blank&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;target=&#34;_blank&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;target=&#34;_blank&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
