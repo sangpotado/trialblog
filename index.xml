@@ -2,7 +2,7 @@
   <channel>
       <title>potado&#39;s land on potado&#39;s land </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>/</link>
+    <link>www.potadoland.xyz/</link>
     <language>en-us</language>
     
     
@@ -10,20 +10,20 @@
     
     <item>
       <title>second post</title>
-      <link>/post/secondpost/</link>
+      <link>www.potadoland.xyz/post/secondpost/</link>
       <pubDate>Thu, 14 Jan 2021 10:58:25 EST</pubDate>
       
-      <guid>/post/secondpost/</guid>
+      <guid>www.potadoland.xyz/post/secondpost/</guid>
       <description>&lt;p&gt;i cost me a whole fucking day and i&amp;rsquo;m still not done&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How to Make Your Website Crash in 15 Minutes</title>
-      <link>/post/website-crash/</link>
+      <link>www.potadoland.xyz/post/website-crash/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
       
-      <guid>/post/website-crash/</guid>
+      <guid>www.potadoland.xyz/post/website-crash/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, ad indoctum convenire conclusionemque cum. Ius nibh reformidans efficiantur eu, vocent definitiones pri ad, ea cum ferri maiorum. Vix case nemore apeirian no, magna euripidis ad ius, per ut legere iriure evertitur. Vim ex vidit accumsan, illud consectetuer ut vim. No quo esse senserit.&lt;/p&gt;
 &lt;p&gt;Sit labitur imperdiet ei. No per bonorum atomorum dissentias, an usu nibh expetenda, fugit mandamus an duo. Usu fabellas deseruisse eu, nec nostro civibus cotidieque ut. Timeam aliquando maiestatis ei qui, ei cum postulant moderatius, nam idque adipiscing complectitur no. Ius periculis efficiantur delicatissimi ei, has omnis expetenda in.&lt;/p&gt;
 &lt;p&gt;Id eam dicant graeco delicatissimi, mel cu dolor homero integre. In eam soleat putant, eam in augue periculis. Has efficiantur deterruisset id. Cum errem clita debitis te, eleifend neglegentur mea eu. Vel eu aeterno dolorum fuisset, velit pericula vel et.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>How to Keep a Copywriter Busy in One Easy Step</title>
-      <link>/post/copywriter-busy/</link>
+      <link>www.potadoland.xyz/post/copywriter-busy/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 UTC</pubDate>
       
-      <guid>/post/copywriter-busy/</guid>
+      <guid>www.potadoland.xyz/post/copywriter-busy/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, ad indoctum convenire conclusionemque cum. Ius nibh reformidans efficiantur eu, vocent definitiones pri ad, ea cum ferri maiorum. Vix case nemore apeirian no, magna euripidis ad ius, per ut legere iriure evertitur. Vim ex vidit accumsan, illud consectetuer ut vim. No quo esse senserit.&lt;/p&gt;
 &lt;p&gt;Sit labitur imperdiet ei. No per bonorum atomorum dissentias, an usu nibh expetenda, fugit mandamus an duo. Usu fabellas deseruisse eu, nec nostro civibus cotidieque ut. Timeam aliquando maiestatis ei qui, ei cum postulant moderatius, nam idque adipiscing complectitur no. Ius periculis efficiantur delicatissimi ei, has omnis expetenda in.&lt;/p&gt;
 &lt;p&gt;Id eam dicant graeco delicatissimi, mel cu dolor homero integre. In eam soleat putant, eam in augue periculis. Has efficiantur deterruisset id. Cum errem clita debitis te, eleifend neglegentur mea eu. Vel eu aeterno dolorum fuisset, velit pericula vel et.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>How to Confuse Graphics Designers in 5 Minutes</title>
-      <link>/post/confuse-graphic-designer/</link>
+      <link>www.potadoland.xyz/post/confuse-graphic-designer/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 UTC</pubDate>
       
-      <guid>/post/confuse-graphic-designer/</guid>
+      <guid>www.potadoland.xyz/post/confuse-graphic-designer/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, ad indoctum convenire conclusionemque cum. Ius nibh reformidans efficiantur eu, vocent definitiones pri ad, ea cum ferri maiorum. Vix case nemore apeirian no, magna euripidis ad ius, per ut legere iriure evertitur. Vim ex vidit accumsan, illud consectetuer ut vim. No quo esse senserit.&lt;/p&gt;
 &lt;p&gt;Sit labitur imperdiet ei. No per bonorum atomorum dissentias, an usu nibh expetenda, fugit mandamus an duo. Usu fabellas deseruisse eu, nec nostro civibus cotidieque ut. Timeam aliquando maiestatis ei qui, ei cum postulant moderatius, nam idque adipiscing complectitur no. Ius periculis efficiantur delicatissimi ei, has omnis expetenda in.&lt;/p&gt;
 &lt;p&gt;Id eam dicant graeco delicatissimi, mel cu dolor homero integre. In eam soleat putant, eam in augue periculis. Has efficiantur deterruisset id. Cum errem clita debitis te, eleifend neglegentur mea eu. Vel eu aeterno dolorum fuisset, velit pericula vel et.&lt;/p&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>www.potadoland.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>/about/</guid>
+      <guid>www.potadoland.xyz/about/</guid>
       <description>&lt;p&gt;Dark Simplicity is a minimalist oriented theme with a dark color scheme for &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;supports-the-following-built-in-functions-from-hugo&#34;&gt;Supports the following built-in functions from Hugo:&lt;/h2&gt;
 &lt;ul&gt;
@@ -93,10 +93,10 @@
     
     <item>
       <title>first post</title>
-      <link>/post/firstpost/</link>
+      <link>www.potadoland.xyz/post/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>/post/firstpost/</guid>
+      <guid>www.potadoland.xyz/post/firstpost/</guid>
       <description>&lt;p&gt;fuckkkkkkkkkkk mmeeeeeeeee&lt;/p&gt;
 </description>
     </item>
