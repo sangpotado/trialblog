@@ -415,10 +415,17 @@ TN. Tốt; “Phải đc loại bỏ bởi những ngoại lực, ko gì khác�
     <item>
       <title></title>
       <link>https://example.com/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/archives/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://example.com/tags/what-is-man/&#34;&gt;Series What is Man, by Mark Twain:&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/post/whatisman1&#34;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/post/whatisman2&#34;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/post/whatisman3&#34;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
     </item>
     
   </channel>
