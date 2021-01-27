@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://example.com/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/categories/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/categories/contemplation/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/tags/nopill/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/post/nopill1/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/post/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
+    <loc>https://example.com/tags/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
     <loc>https://example.com/comment-policy/</loc><lastmod>2021-01-19T15:14:37-05:00</lastmod></url><url>
-    <loc>https://example.com/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/categories/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/categories/contemplative/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
+    <loc>https://example.com/categories/conventional-life/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
     <loc>https://example.com/tags/d%E1%BB%8Bch/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
     <loc>https://example.com/tags/mark-twain/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/categories/mental/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/post/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/tags/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
     <loc>https://example.com/tags/what-is-man/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
     <loc>https://example.com/post/whatisman3/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
     <loc>https://example.com/post/whatisman2/</loc><lastmod>2021-01-16T18:52:59-05:00</lastmod></url><url>
