@@ -25,6 +25,7 @@ function rolldice () {
     document.getElementById("turn").innerHTML = trn;
     document.getElementById("human").innerHTML = human.toString();
     document.getElementById("computer").innerHTML = computer.toString();
+    document.getElementById("status").innerHTML += `, it's ${trn} next`;
 }
 function reset() {
     document.getElementById("computer").innerHTML = "0";
@@ -34,7 +35,6 @@ function checkstatus() {
     if ((computer >= 50) || (human >= 50)) {
         if (computer > human) {status.innerHTML = "computer wins, reset game"}
         else {status.innerHTML = "human wins, reset game"};
-        reset();
 }};
 function dicedice() {
     rolldice();
