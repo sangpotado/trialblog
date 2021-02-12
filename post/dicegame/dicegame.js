@@ -28,8 +28,10 @@ function rolldice () {
     document.getElementById("status").innerHTML += `, it's ${trn} next`;
 }
 function reset() {
-    document.getElementById("computer").innerHTML = "0";
+    document.getElementById("computer").innerHTML = "0";;
+    computer = 0;
     document.getElementById("human").innerHTML = "0";
+    human = 0;
 }
 function checkstatus() {
     if ((computer >= 50) || (human >= 50)) {
