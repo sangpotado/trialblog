@@ -6,31 +6,36 @@ function sleep(milliseconds) {
     } while (currentDate - date < milliseconds);
 }
 let trn = document.getElementById("turn").innerHTML;
-let computer = parseInt(document.getElementById("computer").innerHTML);
-let human = parseInt(document.getElementById("human").innerHTML);
+const getcom = document.getElementById("computer");
+let computer = parseInt(getcom.innerHTML);
+const gethuman = document.getElementById("human");
+let human = parseInt(gethuman.innerHTML);
 const status = document.getElementById("status");
 
+function changepic() {
+
+}
 function rolldice () {
     let dc1 = Math.floor(Math.random() * 6) + 1;
     let dc2 = Math.floor(Math.random() * 6) + 1;
     document.getElementById("dice1").src = `d${dc1}.jpg`;
     document.getElementById("dice2").src = `d${dc2}.jpg`;
     let score = dc1 + dc2;
-    document.getElementById("status").innerHTML = `${trn} just got ${score}`;
+    status.innerHTML = `${trn} just got ${score}`;
     if (trn === "computer") {computer += score}
     else if (trn === "human") {human += score};
     if (dc1 === dc2) {trn = trn}
     else if ((dc1 !== dc2) && (trn ==="human")) {trn ="computer"}
     else if ((dc1 !== dc2) && (trn ==="computer")) {trn ="human"}
     document.getElementById("turn").innerHTML = trn;
-    document.getElementById("human").innerHTML = human.toString();
-    document.getElementById("computer").innerHTML = computer.toString();
-    document.getElementById("status").innerHTML += `, it's ${trn} next`;
+    gethuman.innerHTML = human.toString();
+    getcom.innerHTML = computer.toString();
+    status.innerHTML += `, it's ${trn} next`;
 }
 function reset() {
-    document.getElementById("computer").innerHTML = "0";;
+    getcom.innerHTML = "0";;
     computer = 0;
-    document.getElementById("human").innerHTML = "0";
+    gethuman.innerHTML = "0";
     human = 0;
 }
 function checkstatus() {
