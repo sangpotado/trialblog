@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src='permutation and combination.js'></script>
+    </head>
+    <body>
+        <a href="./math2.html">bases converter</a>
+        <a href="./index.html">modulo arithematic and trigonometry</a>
+        <div>
+        <p>When the order doesn't matter it is a Combination (c).
+            (Indistinguishable objects)</p>
+            
+        <p>When the order matters it is a Permutation (v).
+            (Distinguishable objects)</p>
+            
+        <p>For repetition choose prime
+            (With exclusion)
+            
+            n is the number of things to choose from
+            and we choose r of them
+            upto and including s</p>
+         <h2>permutation and combination</h2>
+            <input type="number" placeholder="number n" id="n">
+            <input type="number" placeholder="r" id="r">
+            <input  type="number" placeholder="s" id="s">
+            <button onclick=my_fact()>solve</button>
+            <!-- <button onclick=my_v()>Permutations without Repetition</button>
+            <button onclick=my_vPrime()>Permutations with Repetition</button>
+            <button onclick=my_c()>Combinations without Repetition</button>
+            <button onclick=my_cPrime()>Combinations witt Repetition</button> -->
+            <p id="answer">Click the button to see Asnwer</p>
+            <script>
+                function my_fact() {
+                    let n = parseFloat(document.getElementById('n').value);
+                      let r = parseFloat(document.getElementById('r').value);
+                    let s = parseFloat(document.getElementById('s').value);
+                    document.getElementById('answer').innerHTML = `factorial of n: ${fact(n)} <br> Permutations without Repetition: ${v(n,r,s)} <br> Permutations with Repetition: ${vPrime(n,r,s)} <br> Combinations without Repetition: ${c(n,r,s)} <br> Combinations with Repetition: ${cPrime(n,r,s)}`
+                }
+            </script>
+        </div>
+    </body>
+</html>
