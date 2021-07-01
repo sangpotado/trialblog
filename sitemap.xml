@@ -1,38 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://example.com/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/categories/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/categories/conventional-life/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/tags/hiking/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/post/mentaljerk2/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/post/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/tags/</loc><lastmod>2021-05-15T21:54:20-04:00</lastmod></url><url>
-    <loc>https://example.com/post/mst1/</loc><lastmod>2021-05-08T19:31:34-04:00</lastmod></url><url>
-    <loc>https://example.com/post/theplatform2/</loc><lastmod>2021-05-03T13:36:26-04:00</lastmod></url><url>
-    <loc>https://example.com/post/theplatform1/</loc><lastmod>2021-05-02T12:21:25-04:00</lastmod></url><url>
-    <loc>https://example.com/post/cs03/</loc><lastmod>2021-04-26T19:24:05-04:00</lastmod></url><url>
-    <loc>https://example.com/tags/computer-spirituality/</loc><lastmod>2021-04-26T19:24:05-04:00</lastmod></url><url>
-    <loc>https://example.com/categories/contemplation/</loc><lastmod>2021-04-26T19:24:05-04:00</lastmod></url><url>
-    <loc>https://example.com/post/cs02/</loc><lastmod>2021-04-25T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/post/nopill5/</loc><lastmod>2021-03-31T13:05:46-04:00</lastmod></url><url>
-    <loc>https://example.com/tags/nopill/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/post/nopill4/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/post/cs01/</loc><lastmod>2021-03-06T09:48:25-05:00</lastmod></url><url>
-    <loc>https://example.com/tags/d%E1%BB%8Bch/</loc><lastmod>2021-03-05T21:40:41-05:00</lastmod></url><url>
-    <loc>https://example.com/tags/mark-twain/</loc><lastmod>2021-03-05T21:40:41-05:00</lastmod></url><url>
-    <loc>https://example.com/tags/what-is-man/</loc><lastmod>2021-03-05T21:40:41-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatismanfinal/</loc><lastmod>2021-03-05T21:40:41-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman6/</loc><lastmod>2021-02-27T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/post/nopill3/</loc><lastmod>2021-02-15T10:25:35-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman5/</loc><lastmod>2021-02-09T19:04:49-05:00</lastmod></url><url>
-    <loc>https://example.com/post/evolutionvstruth/</loc><lastmod>2021-01-29T15:43:13-05:00</lastmod></url><url>
-    <loc>https://example.com/post/nopill2/</loc><lastmod>2021-01-27T15:53:03-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman4/</loc><lastmod>2021-01-27T14:54:57-05:00</lastmod></url><url>
-    <loc>https://example.com/post/nopill1/</loc><lastmod>2021-01-27T10:40:34-05:00</lastmod></url><url>
-    <loc>https://example.com/comment-policy/</loc><lastmod>2021-01-19T15:14:37-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman3/</loc><lastmod>2021-01-17T12:11:56-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman2/</loc><lastmod>2021-01-16T18:52:59-05:00</lastmod></url><url>
-    <loc>https://example.com/post/whatisman1/</loc><lastmod>2021-01-15T18:27:28-05:00</lastmod></url><url>
-    <loc>https://example.com/about/</loc><lastmod>2021-01-14T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/archives/</loc></url><url>
-    <loc>https://example.com/tags/index/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/t1/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/t3/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/testing/</loc>
+    <lastmod>2021-07-01T14:26:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>
