@@ -1,19 +1,14 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on potaDoland</title>
+    <title>Categories on sangpotado</title>
     <link>/categories/</link>
-    <description>potaDoland (Categories)</description>
+    <description>Recent content in Categories on sangpotado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 21:13:40 -0400</lastBuildDate>
     
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
 </rss>
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on sangpotado</title><link>https://sangpotado.github.io/categories/</link><description>Recent content in Categories on sangpotado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sangpotado.github.io/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
->>>>>>> nov2022

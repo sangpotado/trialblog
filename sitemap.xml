@@ -1,79 +1,88 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
+    <loc>/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/contemplation/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
+    <loc>/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mental-jerk/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
+    <loc>/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
+    <loc>/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/work1/</loc>
+    <lastmod>2022-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2022-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
+    <lastmod>2022-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/moreaboutmind/</loc>
-    <lastmod>2021-08-10T21:13:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/nomind1/</loc>
-    <lastmod>2021-07-26T17:02:47-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/listentothebody/</loc>
-    <lastmod>2021-07-23T21:13:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nopill/</loc>
-    <lastmod>2021-07-21T14:38:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/nopill5/</loc>
-    <lastmod>2021-07-21T14:38:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/conventional-life/</loc>
-    <lastmod>2021-07-17T12:53:42-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/smartcontract/</loc>
-    <lastmod>2021-07-17T12:53:42-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/nature/</loc>
-    <lastmod>2021-07-03T21:13:40-04:00</lastmod>
   </url>
   
 </urlset>
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://sangpotado.github.io/portfolio/work2/</loc><lastmod>2016-11-05T19:41:01+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work3/</loc><lastmod>2016-11-05T19:44:32+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work4/</loc><lastmod>2016-11-05T19:50:47+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work5/</loc><lastmod>2016-11-05T19:53:42+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work6/</loc><lastmod>2016-11-05T19:56:17+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work7/</loc><lastmod>2016-11-05T19:57:40+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work8/</loc><lastmod>2016-11-05T19:59:22+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work9/</loc><lastmod>2016-11-05T20:02:19+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work10/</loc><lastmod>2016-11-05T20:22:08+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work11/</loc><lastmod>2016-11-05T20:23:59+05:30</lastmod></url><url><loc>https://sangpotado.github.io/contact/</loc><lastmod>2016-11-06T13:00:25+05:30</lastmod></url><url><loc>https://sangpotado.github.io/</loc><lastmod>2016-11-06T13:00:25+05:30</lastmod></url><url><loc>https://sangpotado.github.io/about/</loc><lastmod>2016-11-05T21:05:33+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/</loc><lastmod>2016-11-05T20:23:59+05:30</lastmod></url><url><loc>https://sangpotado.github.io/portfolio/work1/</loc><lastmod>2016-11-05T18:25:22+05:30</lastmod></url><url><loc>https://sangpotado.github.io/categories/</loc></url><url><loc>https://sangpotado.github.io/tags/</loc></url></urlset>
->>>>>>> nov2022
