@@ -6,18 +6,20 @@
     <description>Recent content on sangpotado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://sangpotado.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Name of the work 2</title>
+      <title>2d simulation</title>
       <link>https://sangpotado.github.io/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Thu, 12 May 2022 18:25:22 +0530</pubDate>
       
       <guid>https://sangpotado.github.io/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
+      <description>2d simulation prep for AI training been stucked with trying to figure out how to create a 3D simulation so I can start playing around with AI.
+so I decided to code an easy 2D simulation, just to grab some ideas of physics and refresh my coding skills.
+![falling balls][/assets/img/code/2dsim.png]</description>
     </item>
     
     <item>
@@ -107,9 +109,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sangpotado.github.io/portfolio/work1/</guid>
-      <description>1 câu chuyện nhỏ Đồng tiền đầu tiên mà mình kiếm được là nhờ nặn đất sét, lúc mình học lớp 4.
+      <description>1 câu chuyện nhỏ this story is better told in Vietnamese.
+Đồng tiền đầu tiên mà mình kiếm được là nhờ nặn đất sét, lúc mình học lớp 4.
 Lúc đó, mỗi ngày mình đc ba mẹ cho 2000 VND đi học. Với số tiền này thì mình có thể mua 1 tô mì, hoặc 2 xâu cá viên chiên.
-Trong lớp mình có 1 đứa rất là giàu, chi tiền như người lớn. Nó tên là Kim Luân.</description>
+Trong lớp mình có 1 đứa rất là giàu, chi tiền như người lớn.</description>
     </item>
     
   </channel>
