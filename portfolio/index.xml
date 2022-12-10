@@ -6,29 +6,32 @@
     <description>Recent content in Portfolios on sangpotado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="https://sangpotado.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2d simulation</title>
-      <link>https://sangpotado.github.io/portfolio/work2/</link>
+      <link>https://sangpotado.github.io/portfolio/2d-sim-playing/</link>
       <pubDate>Thu, 12 May 2022 18:25:22 +0530</pubDate>
       
-      <guid>https://sangpotado.github.io/portfolio/work2/</guid>
+      <guid>https://sangpotado.github.io/portfolio/2d-sim-playing/</guid>
       <description>2d simulation prep for AI training been stucked with trying to figure out how to create a 3D simulation so I can start playing around with AI.
-so I decided to code an easy 2D simulation, just to grab some ideas of physics and refresh my coding skills.
-![falling balls][/assets/img/code/2dsim.png]</description>
+so I decided to code an easy 2D simulation, just to grab some ideas of physics and refresh my coding skills.</description>
     </item>
     
     <item>
-      <title>Name of the work 3</title>
-      <link>https://sangpotado.github.io/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>The Skeleton&#39;s Sema</title>
+      <link>https://sangpotado.github.io/portfolio/the-skeletons-sema/</link>
+      <pubDate>Wed, 07 Dec 2022 19:44:32 +0530</pubDate>
       
-      <guid>https://sangpotado.github.io/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>https://sangpotado.github.io/portfolio/the-skeletons-sema/</guid>
+      <description>A Dream I had a dream.
+I was standing in a misty space. There&amp;rsquo;s dark violet and light green patterns of light pervading the mist.
+A skeleton appeared. He approached me while constantly whirling. I immediately knew he was doing the sema, a Sufi dance. He was also dressing like those Sufis.
+He got closed to me and grabbed my hand. I started to whirl with him.
+He was all bones, but his movement was soft and smooth.</description>
     </item>
     
     <item>
@@ -105,10 +108,10 @@ so I decided to code an easy 2D simulation, just to grab some ideas of physics a
     
     <item>
       <title>first sculpture</title>
-      <link>https://sangpotado.github.io/portfolio/work1/</link>
+      <link>https://sangpotado.github.io/portfolio/firstsculpture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sangpotado.github.io/portfolio/work1/</guid>
+      <guid>https://sangpotado.github.io/portfolio/firstsculpture/</guid>
       <description>1 câu chuyện nhỏ this story is better told in Vietnamese.
 Đồng tiền đầu tiên mà mình kiếm được là nhờ nặn đất sét, lúc mình học lớp 4.
 Lúc đó, mỗi ngày mình đc ba mẹ cho 2000 VND đi học. Với số tiền này thì mình có thể mua 1 tô mì, hoặc 2 xâu cá viên chiên.
