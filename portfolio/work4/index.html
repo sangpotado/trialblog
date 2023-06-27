@@ -107,25 +107,33 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Item without image</h1>
-         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-<ol>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-<li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
-<blockquote>
-<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-</blockquote>
-<h2 id="header-level-2">Header Level 2</h2>
-<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-<ul>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-<li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
-<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then</p>
+         <h1>learning basic neural network</h1>
+         <p>evolution: <code>https://sangpotado.github.io/2dsim/evolution</code></p>
+<p>basic neural network, points matching: <code>https://sangpotado.github.io/2dsim/draw%20function/</code></p>
+<p>predicting next point: <code>https://sangpotado.github.io/2dsim/draw%20function/pointpredict</code></p>
+<p>dataset</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">generateDataset</span>(<span style="color:#a6e22e">x</span>, <span style="color:#a6e22e">y</span>, <span style="color:#a6e22e">u</span>) {
+    <span style="color:#75715e">// x = [], y = [], u is how many x read per data
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">dataset</span> <span style="color:#f92672">=</span> [];
+  
+    <span style="color:#75715e">// Iterate until x.length - (u+1) to ensure enough elements for input and target
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;=</span> <span style="color:#a6e22e">x</span>.<span style="color:#a6e22e">length</span> <span style="color:#f92672">-</span> (<span style="color:#a6e22e">u</span><span style="color:#f92672">+</span><span style="color:#ae81ff">1</span>); <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+      <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">input</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">x</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#a6e22e">i</span>, <span style="color:#a6e22e">i</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">u</span>); <span style="color:#75715e">// Get the next 10 elements from x
+</span><span style="color:#75715e"></span>      <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">target</span> <span style="color:#f92672">=</span> [<span style="color:#a6e22e">x</span>[<span style="color:#a6e22e">i</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">u</span>], <span style="color:#a6e22e">y</span>[<span style="color:#a6e22e">i</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">u</span>]]; <span style="color:#75715e">// Get the corresponding elements from x and y as an array
+</span><span style="color:#75715e"></span>  
+      <span style="color:#a6e22e">dataset</span>.<span style="color:#a6e22e">push</span>({ <span style="color:#a6e22e">input</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">input</span>, <span style="color:#a6e22e">target</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">target</span> });
+    }
+  
+    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">dataset</span>;
+  }
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#75715e">//train
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">for</span> (<span style="color:#a6e22e">data</span> <span style="color:#66d9ef">of</span> <span style="color:#a6e22e">dataset</span>) {
+        <span style="color:#a6e22e">nn</span>.<span style="color:#a6e22e">backpropagate</span>(<span style="color:#a6e22e">data</span>.<span style="color:#a6e22e">input</span>,<span style="color:#a6e22e">data</span>.<span style="color:#a6e22e">target</span>);
+        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">nn</span>.<span style="color:#a6e22e">loss</span> <span style="color:#f92672">&gt;</span><span style="color:#ae81ff">5</span>) {
+            <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">nn</span>.<span style="color:#a6e22e">loss</span>);
+        }
+    }
+</code></pre></div>
          
       </div>
     </div>
